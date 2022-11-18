@@ -9,7 +9,7 @@
 ---
 
 ### :man_technologist: About Me
-🌱 I’m currently learning Ruby and Wordpress
+🌱 I’m currently learning Ruby, WordPress, and OpenShift
 
 ---
 
