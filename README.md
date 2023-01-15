@@ -1,19 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
+# :man_technologist: About Me
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
----
-
-### :man_technologist: About Me
 
 🌱 I’m currently learning Ruby, WordPress, and OpenShift
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
@@ -28,7 +21,7 @@
 </div>
 
 <!--
-**bstuike/bstuike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nausicaan/nausicaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
