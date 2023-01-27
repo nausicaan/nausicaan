@@ -2,9 +2,9 @@
 # :man_technologist: About Me
 
 <a href="https://www.linkedin.com/in/byron-stuike" target="_blank"><img src="icons/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
-<a href="https://discord.com/channels/Nautolan#6751" target="_blank"><img src="icons/discord.svg" title="Discord" alt="Discord" width="40" height="40"/></a>&nbsp;
+<a href="https://discord.com/channels/Farghul#6751" target="_blank"><img src="icons/discord.svg" title="Discord" alt="Discord" width="40" height="40"/></a>&nbsp;
 <a href="https://www.reddit.com/user/farghul" target="_blank"><img src="icons/reddit.svg" title="Reddit" alt="Reddit" width="40" height="40"/></a>&nbsp;
-<a href="https://t.me/nausicaan" target="_blank"><img src="icons/telegram.svg" title="Telegram" alt="Telegram" width="40" height="40"/></a>&nbsp;
+<a href="https://t.me/farghul" target="_blank"><img src="icons/telegram.svg" title="Telegram" alt="Telegram" width="40" height="40"/></a>&nbsp;
 
 🌱 I’m currently learning Ruby, WordPress, and OpenShift
 
