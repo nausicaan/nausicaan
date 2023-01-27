@@ -1,6 +1,10 @@
+
 # :man_technologist: About Me
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<img src="icons/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+<img src="icons/discord.svg" title="Discord" alt="Discord" width="40" height="40"/>&nbsp;
+<img src="icons/reddit.svg" title="Reddit" alt="Reddit" width="40" height="40"/>&nbsp;
+<img src="icons/telegram.svg" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
 
 🌱 I’m currently learning Ruby, WordPress, and OpenShift
 
@@ -9,15 +13,15 @@
 ## :hammer_and_wrench: Languages and Tools :
   
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="icons/ruby.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="icons/go.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="icons/julia.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
+  <img src="icons/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="icons/html5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="icons/css3.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="icons/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="icons/git.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="icons/vscode.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
 
 <!--
@@ -34,6 +38,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
-[linkedin-url]: https://linkedin.com/in/byron-stuike
