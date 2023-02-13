@@ -1,14 +1,6 @@
-
 ## :man_technologist: About Me
 
 I'm a Technical Analyst with the BC Public Service. I love working with technology and contributing to the platforms and services used by residents all over our great province. I'm proud to be a part an organization that makes a difference every day.
-
-### 📫 How to reach me:
-
-<a href="https://discord.com/channels/Farghul#6751"><img src="icons/discord.svg" title="Discord" alt="Discord" width="40" height="40"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/byron-stuike"><img src="icons/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
-<a href="https://www.reddit.com/user/farghul"><img src="icons/reddit.svg" title="Reddit" alt="Reddit" width="40" height="40"/></a>&nbsp;
-<a href="https://t.me/farghul"><img src="icons/telegram.svg" title="Telegram" alt="Telegram" width="40" height="40"/></a>&nbsp;
 
 🌱 I’m currently learning Ruby, WordPress, and OpenShift
 
