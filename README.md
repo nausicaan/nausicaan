@@ -15,6 +15,7 @@ I'm a Technical Analyst with the BC Public Service. I love working with technolo
   <a href="https://go.dev/"><img src="icons/go.svg" title="Go" alt="Go" width="40" height="40"/></a>&nbsp;
   <a href="https://julialang.org/"><img src="icons/julia.svg" title="Julia" alt="Julia" width="40" height="40"/></a>&nbsp;
   <a href="https://www.java.com/en/"><img src="icons/java.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.ansible.com/"><img src="icons/ansible.svg" title="Ansible" **alt="Ansible" width="40" height="40"/></a>&nbsp;
   <a href="https://html.com/html5/"><img src="icons/html5.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
   <a href="https://css3.com/"><img src="icons/css3.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
   <a href="https://www.javascript.com/"><img src="icons/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
