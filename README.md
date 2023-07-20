@@ -2,6 +2,8 @@
 
 I'm a Technical Analyst with the BC Public Service. I love working with technology and contributing to the platforms and services used by residents all over our great province. I'm proud to be a part an organization that makes a difference every day.
 
+![Me](me.webp)
+
 🌱 I’m currently learning Ruby, WordPress, and OpenShift
 
 🔭 I’m currently working on SRE Automation
