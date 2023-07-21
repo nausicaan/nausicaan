@@ -4,7 +4,7 @@ I'm a Technical Analyst with the BC Public Service. I love working with technolo
 
 ![Me](me.webp)
 
-🌱 I’m currently learning Ruby, WordPress, and OpenShift
+🌱 I’m currently learning Ansible, Ruby, WordPress, and OpenShift
 
 🔭 I’m currently working on SRE Automation
 
